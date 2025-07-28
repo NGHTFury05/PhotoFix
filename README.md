@@ -1,12 +1,11 @@
-PhotoFix Pro: Complete AI-Powered Photo Editor
+##PhotoFix : Complete AI-Powered Photo Editor
 
-![PhotoFix Pro Banner](https://via.placeholder.com/1200x400/667eea/white?text=PhotoFix+Pro+-+AI+Photo+Editor)
 
-PhotoFix Pro is a comprehensive, professional-grade photo editing application built with Streamlit and Python. It combines cutting-edge AI-powered creative tools with essential manual editing functionalities, making advanced photo editing accessible to everyone from casual users to professional photographers.
+PhotoFix is a comprehensive, professional-grade photo editing application built with Streamlit and Python. It combines cutting-edge AI-powered creative tools with essential manual editing functionalities, making advanced photo editing accessible to everyone from casual users to professional photographers.
 
 ## 🌟 Overview
 
-PhotoFix Pro revolutionizes photo editing by seamlessly integrating artificial intelligence with traditional editing tools. Whether you want to transform your photos into artistic masterpieces using neural style transfer, enhance them with AI-powered ambient lighting, or fine-tune every detail with precision manual controls, PhotoFix Pro provides all the tools you need in one intuitive interface.
+PhotoFix revolutionizes photo editing by seamlessly integrating artificial intelligence with traditional editing tools. Whether you want to transform your photos into artistic masterpieces using neural style transfer, enhance them with AI-powered ambient lighting, or fine-tune every detail with precision manual controls, PhotoFix Pro provides all the tools you need in one intuitive interface.
 
 ## ✨ Complete Feature Set
 
