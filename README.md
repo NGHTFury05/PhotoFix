@@ -120,8 +120,8 @@ Professional-grade transformation capabilities:
 ### Step-by-Step Installation
 
 1. **Clone the Repository**
-git clone https://github.com/your-username/photofix-pro.git
-cd photofix-pro
+git clone https://github.com/NGHTFury05/photofix-pro.git
+cd photoFix
 
 text
 
