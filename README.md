@@ -1,4 +1,4 @@
-##PhotoFix : Complete AI-Powered Photo Editor
+## PhotoFix : Complete AI-Powered Photo Editor
 
 
 PhotoFix is a comprehensive, professional-grade photo editing application built with Streamlit and Python. It combines cutting-edge AI-powered creative tools with essential manual editing functionalities, making advanced photo editing accessible to everyone from casual users to professional photographers.
